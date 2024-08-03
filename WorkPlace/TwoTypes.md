@@ -10,7 +10,7 @@
 
 “如果你是被困的那个人，你不希望有人来救你吗？”
 
-人是活着的历史，而画，不过是过去历史辉煌苟延残喘的痕迹罢了。至于猫————愿它安息吧。
+救人，是理所应当的。人，是活着的历史，而画，不过是过去历史辉煌苟延残喘的痕迹罢了。至于猫————愿它安息吧。
 
 /* Character character = new(){
 
@@ -19,3 +19,5 @@ Name = "",
 Class = Character.Protagonist
 
 } */
+
+Environment.Children.Add(character);
